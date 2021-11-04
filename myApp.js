@@ -1,4 +1,4 @@
-import express from 'express';
+const express = require('экспресс');
 const app = express();
 let helmet = require('helmet');
 
